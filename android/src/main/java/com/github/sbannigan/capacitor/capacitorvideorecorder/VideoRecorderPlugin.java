@@ -31,10 +31,10 @@ import co.fitcom.fancycamera.PhotoEvent;
 import co.fitcom.fancycamera.VideoEvent;
 
 @CapacitorPlugin(
-        name = "VideoRecorder",
-        requestCodes = {
-                VideoRecorder.REQUEST_CODE
-        }
+        name = "VideoRecorder"
+        // requestCodes = {
+        //         VideoRecorder.REQUEST_CODE
+        // }
 )
 public class VideoRecorderPlugin extends Plugin {
     static final int REQUEST_CODE = 868;

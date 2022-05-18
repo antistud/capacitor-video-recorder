@@ -1,6 +1,6 @@
 {
   "name": "@antistud/capacitor-video-recorder",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Records video",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
@@ -16,10 +16,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TeamHive/capacitor-video-recorder.git"
+    "url": "git+https://github.com/antistud/capacitor-video-recorder.git"
   },
   "bugs": {
-    "url": "https://github.com/TeamHive/capacitor-video-recorder/issues"
+    "url": "https://github.com/antistud/capacitor-video-recorder/issues"
   },
   "keywords": [
     "capacitor",
@@ -73,5 +73,5 @@
       "src": "android"
     }
   },
-  "homepage": "https://github.com/TeamHive/capacitor-video-recorder#readme"
+  "homepage": "https://github.com/antistud/capacitor-video-recorder#readme"
 }
